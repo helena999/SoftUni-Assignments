@@ -1,2 +1,2 @@
-# SoftUni-Homeworks
-Homeworks from Software University Courses
+# SoftUni-Assignments
+SoftUni-Assignments from Software University Courses
