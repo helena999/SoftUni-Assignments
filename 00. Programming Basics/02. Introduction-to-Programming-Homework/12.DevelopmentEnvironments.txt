@@ -1,0 +1,15 @@
+Problem 12.	Development Environments
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio. Write in a text file called “list-of-IDEs.txt” at least five IDEs along with 2-3 sentences about each of them. Use English.
+
+
+Popular development environments:
+
+1) Eclipse - A free, open-source editor that was initially a Java environment but a variety of plug-ins have extended its capabilities considerably. Suppoerted langugages: C, C++, Python, Perl, PHP, Java, Ruby and more
+
+2) Net Beans - An intuitive, drag-and-drop interface with project templates, binary and static libraries and many useful functions. It is popular IDE for C and C++ projects and also supports Fortan and Assembler files with GNU Debugger Integration and code assistance.
+
+3) Squad - A web-based IDE, Squad simplifies collaboration with the ability to open, edit and share files in real time from any web browser. Languages Supported: C/C++, CSS, Java, JavaScript, PHP, XML and more
+
+4) Kantharos IDE - A rapid PHP development environment and it can be used for offline system scripting needs, including code execution time analysis, custom database maintenance, manual web page queries and more.
+
+5) Visual Studio - Microsoft Visual Studio offers a multitude of editions for developint, testing and deploying applications for the web, desktop, mobile and even game consoles. VS support variety of languages as C#, VB, JScript, Ajax, ASP.NET, XAML

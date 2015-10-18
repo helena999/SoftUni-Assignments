@@ -1,0 +1,9 @@
+Problem 13.	C# and .NET Differences
+Describe the difference between C# and .NET Framework in 2-3 sentences. Write your description in a text file called “csharp-and-dot-net-framework.txt”. Use English.
+
+
+The difference between C# and .NET Framework:
+
+1) .Net is blanket term that tends to cover the .NET Framework (an application framework library) and the Common Language Runtime which is the runtime in which .NET assemblies are run.
+
+2) C# is a programming language that is a strong Object Oriented.
