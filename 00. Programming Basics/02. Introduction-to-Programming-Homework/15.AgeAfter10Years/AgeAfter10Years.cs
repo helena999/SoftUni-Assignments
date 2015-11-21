@@ -7,18 +7,20 @@ using System;
         static void Main()
         {
             Console.WriteLine("Calculate your age after 10 years.");
-            Console.Write("Write your birthday/yyyy/mm/dd: ");
+            Console.Write("Write your birthday: ");
             DateTime yourBirthday = DateTime.Parse(Console.ReadLine());
             DateTime currentDate = DateTime.Now;
             int yourAge = currentDate.Year - yourBirthday.Year;
+            
 
-            if (yourBirthday.Month >= currentDate.Month && yourBirthday.Day > currentDate.Day)
+            if ((yourBirthday.Month == currentDate.Month && yourBirthday.Day > currentDate.Day) || (yourBirthday.Month > currentDate.Month))
             {
-                yourAge--;
-                Console.WriteLine("Your age after 10 years will be: {0}", yourAge + 10);
+                Console.WriteLine("Your age now: {0}", yourAge - 1);
+                Console.WriteLine("Your age after 10 years will be: {0}", yourAge + 9);
             }
             else
             {
+                Console.WriteLine("Your age now: {0}", yourAge);
                 Console.WriteLine("Your age after 10 years will be: {0}", yourAge + 10);
             }
 
